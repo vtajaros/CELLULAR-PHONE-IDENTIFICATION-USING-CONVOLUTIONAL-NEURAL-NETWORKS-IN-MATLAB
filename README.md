@@ -39,4 +39,4 @@ The project faced challenges, including the creation of the GUI in MATLAB online
 
 ## App and Dataset Link
 
-You can access the application and dataset here at gitHub.
+You can access the application and dataset here at github.
