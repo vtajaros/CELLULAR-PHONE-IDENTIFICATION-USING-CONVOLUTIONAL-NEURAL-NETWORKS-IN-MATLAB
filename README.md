@@ -39,5 +39,4 @@ The project faced challenges, including the creation of the GUI in MATLAB online
 
 ## App and Dataset Link
 
-You can access the application and dataset at the following Google Drive folder:
-[Project App & Dataset](https://drive.google.com/drive/folders/1T4TD2-jPptugZpnw-RyzEI14M5vfybck?usp=sharing)
+You can access the application and dataset here at gitHub.
